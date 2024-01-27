@@ -15,9 +15,7 @@ public class Book
 		setauthorName(authorName);
 		setprice(price);
 		setavailableQuantity(availableQuantity);
-		
 	}
-	
 	
 	public void setisbn(String isbn)
 	{
